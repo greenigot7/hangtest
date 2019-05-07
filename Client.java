@@ -33,7 +33,7 @@ public class Client extends Clientgame{
             //close resources
             ois.close();
             oos.close();
-            Thread.sleep(800);
+            Thread.sleep(1000);
 
 
     }
